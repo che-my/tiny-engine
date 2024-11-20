@@ -24,7 +24,6 @@ English | [简体中文](README.zh-CN.md)
 - playground：https://opentiny.design/tiny-engine#/tiny-engine-editor
 
 ## Development
-
 ### Dependencies required for installation
 
 ```sh
